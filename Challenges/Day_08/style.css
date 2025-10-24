@@ -1,5 +1,5 @@
 body{
-    background: #13132F;
+    background: #0e090c;
   }
   
   .card{
@@ -15,7 +15,7 @@ body{
   .thing {
     width: 40px;
     height: 60px;
-    background: #722cc2;
+    background: #bb216e;
     margin: 0 3px;
     border-radius: 30px;
     animation: loading 0.8s infinite;
