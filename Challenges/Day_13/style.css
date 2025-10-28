@@ -6,11 +6,11 @@ body {
 section {
     width: 100%;
     height: 100%;
-    background-color:#FDE9E3;
+    background-color:#f04393;
     box-sizing: border-box;
     overflow: hidden;
     position: absolute;
-    color:#4B3C41;
+    color:#000000;
 }
 
 .sliding {
@@ -27,7 +27,7 @@ section {
 .wrapper {
     height: 100%;
     width: 50%;
-    background-color: #E4538D;
+    background-color: #000000;
     overflow: hidden;
     color:#FDE9E3;
     position: absolute;
